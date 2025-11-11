@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\json1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\extensionmethodforclassname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\extensionmethodforclassname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|c:\\users\\nihad\\onedrive\\desktop\\consoleappcode\\consoleappcode\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F5A8BB-5642-4AB3-9D40-12062F463AA2}|ConsoleAppCode\\ConsoleAppCode.csproj|solutionrelative:consoleappcode\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "json1.json",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\json1.json",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\json1.json",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\json1.json",
+              "RelativeToolTip": "ConsoleAppCode\\json1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T19:26:08.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\Student.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Student.cs",
+              "RelativeToolTip": "ConsoleAppCode\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:08:15.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Classroom.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\Classroom.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Classroom.cs",
+              "RelativeToolTip": "ConsoleAppCode\\Classroom.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:07:07.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Methods.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\Methods.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Methods.cs",
+              "RelativeToolTip": "ConsoleAppCode\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:01:13.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\Program.cs",
+              "RelativeToolTip": "ConsoleAppCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:06:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtensionmethodForClassNAme.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\ExtensionmethodForClassNAme.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\ExtensionmethodForClassNAme.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\ExtensionmethodForClassNAme.cs",
+              "RelativeToolTip": "ConsoleAppCode\\ExtensionmethodForClassNAme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:31:40.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "ConsoleAppCode\\StudentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Nihad\\OneDrive\\Desktop\\ConsoleAppCode\\ConsoleAppCode\\StudentNotFoundException.cs",
+              "RelativeToolTip": "ConsoleAppCode\\StudentNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:32:25.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "students": [
+      {
+        "Id": 1,
+        "Name": "Nihad",
+        "Surname": "Qasimov"
+      }
+    ],
+    "StudentLimit": 0,
+    "Id": 1,
+    "Name": "BPA20",
+    "CType": 2
+  }
+]
